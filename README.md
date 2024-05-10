@@ -1,16 +1,16 @@
-# Api de Myspace 
-
-C est une api qui permets de gerer les crud sur les users et les messages entre users
-
+# todoList
+Mini application qui permet d'enregistrer des utilisateurs, modifier les informations d'un utilisateur,supprimer un utilisateur et lire l'ensemble des utilisateurs.
 # Technologies 
 - nodejs
+- express
+- angular
 - typeorm
 - mysql 
 - linter 
 
 # run le projet
  
-1.  `  git clone https://github.com/darcia0001/myspace.git `
+1.  `  git clone https://github.com/mariame-tech/CRUD_APP.git`
 2.  `  cp myspace `
 3.  `  npm i  `
 4.  `   npm run dev   `
