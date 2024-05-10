@@ -11,7 +11,7 @@ Mini application qui permet d'enregistrer des utilisateurs, modifier les informa
 # run le projet
  
 1.  `  git clone https://github.com/mariame-tech/CRUD_APP.git`
-2.  `  cp myspace `
+2.  `  cp CRUD_APP `
 3.  `  npm i  `
 4.  `   npm run dev   `
 
